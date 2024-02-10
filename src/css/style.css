@@ -1,0 +1,18 @@
+.title{
+    text-align: center;
+    margin: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.btn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.link{
+    color: black;
+}
+.navbar-brand{
+    margin-left: 10px;
+}
+.nav-item{
+    margin-right: 30px;
+}
