@@ -6,7 +6,7 @@ const User = require('./server/models/profile');
 
 
 const app = express();
-const PORT = process.env.PORT || 8000;
+const PORT = process.env.PORT || 5000;
 
 app.use(express.urlencoded({extended: true}))
 app.use(bodyParser.json());
